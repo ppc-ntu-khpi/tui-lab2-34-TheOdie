@@ -10,4 +10,4 @@
 7. Додайте ще одну команду - **report**, яка має виводити звіт за клієнтами такого ж виду, як у роботі номер 8 (див. CustomerReport).
 8. Запустіть проект, впевніться, що все працює як очікувалось. Продемонстрируйте результат викладачеві.
 ## Результат роботи 
-<img src="https://github.com/ppc-ntu-khpi/tui-lab2-34-TheOdie/blob/master/photo_2020-05-25_22-23-59.jpg?raw=true" width="87%"/>
+<img src="https://github.com/ppc-ntu-khpi/tui-lab2-34-TheOdie/blob/master/Skhrek.PNG?raw=true" width="87%"/>
